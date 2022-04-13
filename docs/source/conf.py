@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'state-machine-documentation'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, 99minutos.com'
+author = '99minutos'
 
 release = '0.1'
 version = '0.1.0'
