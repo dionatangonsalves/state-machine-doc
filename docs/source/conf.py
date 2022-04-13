@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'state-machine-documentation'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
